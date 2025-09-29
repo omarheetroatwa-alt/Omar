@@ -1,15 +1,6 @@
 int leeftijd = 16;
-
-  if (leeftijd < 2) {
-    println("Je bent een baby.");
-  } else if (leeftijd < 4) {
-    println("Je bent een kleuter.");
-  } else if (leeftijd < 12) {
-    println("Je bent een kind.");
-  } else if (leeftijd < 20) {
-    println("Je bent een tiener.");
-  } else if (leeftijd < 25) {
-    println("Je bent een adolescent.");
-  } else {
-    println("Je bent een volwassene.");
-  }
+float lengte = 150;
+  if (leeftijd >= 16 || lengte >= 150);{
+    println("je mag naar binnen");
+ }el { println ("je mag niet naar binnen");
+ }
